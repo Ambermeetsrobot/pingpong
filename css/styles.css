@@ -1,7 +1,12 @@
-#result {
-  display: none;
+body {
+  background-color: #ccc;
 }
 
 .jumbotron {
-  background-color: #ff0066;
+  background-color: #e6e600;
+  border-bottom: black 10px solid;
+}
+
+#result {
+  display: none;
 }
